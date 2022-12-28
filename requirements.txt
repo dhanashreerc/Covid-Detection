@@ -1,0 +1,13 @@
+altair
+pandas
+streamlit
+tensorflow
+matplotlib
+numpy
+opencv-python-headless
+torch
+albumentations==1.0.3
+torchvision
+pillow
+h5py
+torchvision
